@@ -54,12 +54,12 @@ Currently, I'm exploring the integration of **Artificial Intelligence agents** i
 
 </div>
 
-**Libraries & Frameworks**
+**Additional Technologies**
 
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2C3E50?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+[![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2C3E50?style=for-the-badge&logo=python&logoColor=white)](https://customtkinter.tomschimansky.com/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python-pillow.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
 ---
 
