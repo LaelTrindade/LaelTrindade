@@ -124,25 +124,6 @@ Desktop AI chat powered by a Google Gemini agent (SmolAgents) that keeps the con
 🔗 [View Repository](https://github.com/LaelTrindade/Gemini_Chat_v1.0)
 
 ---
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=LaelTrindade&theme=tokyonight&background=1A1B27&hide_border=true&border_radius=10" />
-
-<br/><br/>
-
-</div>
-
----
-
-## 📈 Development Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LaelTrindade&theme=tokyo-night&hide_border=true&radius=10" width="100%" />
-
-</div>
 
 ---
 
