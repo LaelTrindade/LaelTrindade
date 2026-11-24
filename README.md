@@ -124,7 +124,6 @@ Desktop AI chat powered by a Google Gemini agent (SmolAgents) that keeps the con
 🔗 [View Repository](https://github.com/LaelTrindade/Gemini_Chat_v1.0)
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -133,16 +132,10 @@ Desktop AI chat powered by a Google Gemini agent (SmolAgents) that keeps the con
 
 <br/><br/>
 
-<table border="0" width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=LaelTrindade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
-</td>
-<td width="50%" valign="top" align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaelTrindade&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-</td>
-</tr>
-</table>
+<div>
+<img width="48%" align="top" src="https://github-readme-stats.vercel.app/api?username=LaelTrindade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
+<img width="48%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaelTrindade&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+</div>
 
 </div>
 
