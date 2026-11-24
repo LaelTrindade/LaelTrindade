@@ -104,10 +104,6 @@ Desktop authentication system featuring login and registration screens, local da
 
 ---
 
-
-## 📊 GitHub Analytics
-
-
 ## 📊 GitHub Analytics
 
 <div align="center">
