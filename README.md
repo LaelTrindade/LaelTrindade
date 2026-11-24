@@ -1,48 +1,150 @@
-# Lael Trindade
+<!-- HEADER -->
+<div align="center">
 
-### Desenvolvedor Python & UX/UI
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:073F61,50:096B9B,100:00A6D6&height=200&section=header&text=Lael%20Trindade&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Software%20Development&descAlignY=58&descSize=18" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lael_Trindade-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laeltrindade-64887720b)](https://www.linkedin.com/in/laeltrindade-64887720b)
-[![Gmail Badge](https://img.shields.io/badge/-laellrt72@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laellrt72@gmail.com)](mailto:laellrt72@gmail.com)
+<a href="https://github.com/LaelTrindade">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00A6D6&center=true&vCenter=true&width=600&lines=Python+Developer;Desktop+Application+Development;Software+Engineering+Student;Exploring+AI+Agents+Integration" />
+</a>
 
-Meu nome é Lael Trindade e sou Desenvolvedor Python, com foco em aplicações desktop e desenvolvimento de software. Trabalho com sistemas de ponta a ponta, da estruturação de bancos de dados e regras de negócio até a construção de interfaces gráficas, sempre com atenção à usabilidade e à experiência do usuário. Sou graduando em Sistemas de Informação e atuo como Scrum Master em projetos acadêmicos. Atualmente estou explorando a integração de agentes de Inteligência Artificial em aplicações Python.
+</div>
 
-## 🛠️ Tecnologias
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,docker,linux" />
-</p>
+## 👨‍💻 About Me
 
-CustomTkinter · Matplotlib · Pillow (PIL)
+```python
+class LaelTrindade:
+    def __init__(self):
+        self.name = "Lael Trindade"
+        self.role = "Python Developer"
+        self.education = "Information Systems"
+        self.location = "Manaus, Brazil"
 
-## 📂 Projetos
+        self.interests = [
+            "Software Development",
+            "Desktop Applications",
+            "Database Design",
+            "Artificial Intelligence"
+        ]
 
-- [**Calculator v2.1**](https://github.com/LaelTrindade/Calculator_v2.1): calculadora desktop que avalia expressões completas em uma única linha
-- [**Login System v2.1a**](https://github.com/LaelTrindade/Login_System_v2.1a): sistema de autenticação com telas de login e cadastro
-- [**ConfeIT**](https://github.com/LaelTrindade/ConfeIT---Sistema-de-Confeitaria): sistema desktop de gestão para confeitaria, em uso por um cliente real
+    def current_focus(self):
+        return "Building software solutions with Python"
 
-## 📊 Estatísticas
+me = LaelTrindade()
+```
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LaelTrindade&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaelTrindade&layout=compact&hide_border=true" />
-</p>
+I'm a **Python Developer** focused on desktop application development and software engineering.
 
-## 🎯 Objetivo
+I enjoy building complete software solutions, from database modeling and business logic to graphical interfaces, always considering usability and user experience (UX/UI).
 
-Busco uma oportunidade na área de desenvolvimento de software, especialmente com Python, para contribuir com projetos reais, evoluir tecnicamente e desenvolver soluções que gerem valor.
+Currently, I'm exploring the integration of **Artificial Intelligence agents** into Python applications.
 
-<!--
-**LaelTrindade/LaelTrindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=python,sqlite,docker" />
+
+### Libraries & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+
+</div>
+
+**Other technologies:**
+
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2C3E50?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaelTrindade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaelTrindade&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=LaelTrindade&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+---
+
+## 💻 Development Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LaelTrindade&theme=tokyo-night&hide_border=true&radius=10" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Currently Working On
+
+- 🐍 Developing desktop applications with Python and CustomTkinter.
+- 🗄️ Improving database architecture and SQL skills.
+- 🤖 Exploring AI agents integration with Python.
+- 📚 Studying Software Engineering and system architecture.
+- 🛠️ Building projects and expanding my developer portfolio.
+
+---
+
+## 🎓 Education
+
+| Institution | Qualification |
+|---|---|
+| Centro Universitário Fametro | Information Systems *(In Progress)* |
+| Fundação Matias Machline | Technical Degree in Electronics |
+
+---
+
+## 💼 Professional Background
+
+Experience in IT support through internships, including:
+
+- Network infrastructure and maintenance.
+- Computer hardware maintenance.
+- Technical support and troubleshooting.
+- End-user assistance.
+
+Experience with agile methodologies, project organization and Scrum Master responsibilities in academic projects.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:laellrt72@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/LaelTrindade">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Repeat."
+
+<img src="https://komarev.com/ghpvc/?username=LaelTrindade&color=096B9B&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:073F61,50:096B9B,100:00A6D6&height=100&section=footer"/>
+
+</div>
