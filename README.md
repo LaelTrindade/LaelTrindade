@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:306998,50:4B8BBE,100:FFD43B&height=200&section=header&text=Lael%20Trindade&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Software%20Development&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:073F61,50:096B9B,100:00A6D6&height=200&section=header&text=Lael%20Trindade&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Software%20Development&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/LaelTrindade">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFD43B&center=true&vCenter=true&width=600&lines=Python+Developer;Desktop+Application+Development;Information+Systems+Student;Exploring+AI+Agents+Integration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00A6D6&center=true&vCenter=true&width=600&lines=Python+Developer;Desktop+Application+Development;Software+Engineering+Student;Exploring+AI+Agents+Integration" />
 </a>
 
 </div>
@@ -46,11 +46,11 @@ Currently, I'm exploring the integration of **Artificial Intelligence agents** i
 
 <div align="center">
 
-### Languages & Databases
+### Languages & Frameworks
 
 <img src="https://skillicons.dev/icons?i=python,sqlite,docker" />
 
-### Tools
+### Libraries & Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 
@@ -58,20 +58,10 @@ Currently, I'm exploring the integration of **Artificial Intelligence agents** i
 
 **Other technologies:**
 
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Pillow](https://img.shields.io/badge/Pillow-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
-![SQL](https://img.shields.io/badge/SQL-306998?style=for-the-badge&logo=sqlite&logoColor=FFD43B)
-
----
-
-## 📂 Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| [**Calculator v2.1**](https://github.com/LaelTrindade/Calculator_v2.1) | Desktop calculator that evaluates full expressions in a single line, with history and Brazilian number formatting | Python · CustomTkinter |
-| [**Login System v2.1a**](https://github.com/LaelTrindade/Login_System_v2.1a) | Authentication system with login and sign-up screens, local persistence and custom message boxes | Python · CustomTkinter · Pillow · JSON |
-| [**ConfeIT**](https://github.com/LaelTrindade/ConfeIT---Sistema-de-Confeitaria) | Desktop management system for a confectionery, in use by a real client | Python · CustomTkinter · SQLite |
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2C3E50?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
@@ -79,13 +69,13 @@ Currently, I'm exploring the integration of **Artificial Intelligence agents** i
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaelTrindade&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0D1117&title_color=FFD43B&icon_color=4B8BBE&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaelTrindade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaelTrindade&layout=compact&hide_border=true&border_radius=10&bg_color=0D1117&title_color=FFD43B&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaelTrindade&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=LaelTrindade&hide_border=true&border_radius=10&background=0D1117&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B&sideLabels=4B8BBE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9E9E9E"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=LaelTrindade&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </div>
 
@@ -95,7 +85,7 @@ Currently, I'm exploring the integration of **Artificial Intelligence agents** i
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LaelTrindade&bg_color=0D1117&color=4B8BBE&line=FFD43B&point=FFFFFF&area=true&area_color=306998&hide_border=true&radius=10" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LaelTrindade&theme=tokyo-night&hide_border=true&radius=10" width="100%"/>
 
 </div>
 
@@ -106,7 +96,7 @@ Currently, I'm exploring the integration of **Artificial Intelligence agents** i
 - 🐍 Developing desktop applications with Python and CustomTkinter.
 - 🗄️ Improving database architecture and SQL skills.
 - 🤖 Exploring AI agents integration with Python.
-- 📚 Studying software engineering and system architecture.
+- 📚 Studying Software Engineering and system architecture.
 - 🛠️ Building projects and expanding my developer portfolio.
 
 ---
@@ -141,10 +131,6 @@ Experience with agile methodologies, project organization and Scrum Master respo
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/laeltrindade-64887720b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://github.com/LaelTrindade">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -157,8 +143,8 @@ Experience with agile methodologies, project organization and Scrum Master respo
 
 ### 💡 "Code. Learn. Build. Repeat."
 
-<img src="https://komarev.com/ghpvc/?username=LaelTrindade&color=306998&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=LaelTrindade&color=096B9B&style=for-the-badge&label=PROFILE+VIEWS" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:306998,50:4B8BBE,100:FFD43B&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:073F61,50:096B9B,100:00A6D6&height=100&section=footer"/>
 
 </div>
