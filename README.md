@@ -120,7 +120,7 @@ Desktop authentication system featuring login and registration screens, local da
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=LaelTrindade&theme=tokyonight&hide_border=true&border_radius=10" />
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=LaelTrindade&theme=tokyonight&background=1A1B27&hide_border=true&border_radius=10" />
 </td>
 </tr>
 </table>
