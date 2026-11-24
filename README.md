@@ -107,9 +107,16 @@ Desktop authentication system featuring login and registration screens, local da
 
 ## 📊 GitHub Analytics
 
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
 <table>
+<tr>
+<td align="center">
+
+<table border="0">
 <tr>
 <td width="50%" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LaelTrindade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" width="100%" />
@@ -118,9 +125,12 @@ Desktop authentication system featuring login and registration screens, local da
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaelTrindade&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center">
+</table>
+
+<br/>
+
 <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=LaelTrindade&theme=tokyonight&background=1A1B27&hide_border=true&border_radius=10" />
+
 </td>
 </tr>
 </table>
