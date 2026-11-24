@@ -109,13 +109,20 @@ Desktop authentication system featuring login and registration screens, local da
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaelTrindade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaelTrindade&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LaelTrindade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" width="100%" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaelTrindade&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=LaelTrindade&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=LaelTrindade&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -125,11 +132,9 @@ Desktop authentication system featuring login and registration screens, local da
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LaelTrindade&theme=tokyo-night&hide_border=true&radius=10" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LaelTrindade&theme=tokyo-night&hide_border=true&radius=10" width="100%" />
 
 </div>
-
----
 
 ## 🎯 Currently Working On
 
