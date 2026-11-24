@@ -132,11 +132,6 @@ Desktop AI chat powered by a Google Gemini agent (SmolAgents) that keeps the con
 
 <br/><br/>
 
-<div>
-<img width="48%" align="top" src="https://github-readme-stats.vercel.app/api?username=LaelTrindade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
-<img width="48%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaelTrindade&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-</div>
-
 </div>
 
 ---
