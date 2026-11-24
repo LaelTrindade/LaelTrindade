@@ -54,6 +54,7 @@ Currently, I'm exploring the integration of **Artificial Intelligence agents** i
 
 </div>
 
+
 **Additional Technologies**
 
 [![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2C3E50?style=for-the-badge&logo=python&logoColor=white)](https://customtkinter.tomschimansky.com/)
@@ -129,28 +130,13 @@ Desktop AI chat powered by a Google Gemini agent (SmolAgents) that keeps the con
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LaelTrindade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
 
-<table border="0">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LaelTrindade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" width="100%" />
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaelTrindade&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
-</td>
-</tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaelTrindade&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
 <br/>
 
 <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=LaelTrindade&theme=tokyonight&background=1A1B27&hide_border=true&border_radius=10" />
-
-</td>
-</tr>
-</table>
 
 </div>
 
