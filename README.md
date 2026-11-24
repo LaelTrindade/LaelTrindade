@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Lael Trindade!
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:073F61,50:096B9B,100:00A6D6&height=200&section=header&text=Lael%20Trindade&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Software%20Development&descAlignY=58&descSize=18" />
@@ -75,8 +73,13 @@ Currently, I'm exploring the integration of **Artificial Intelligence agents** i
 <a href="https://github.com/LaelTrindade/Login_System_v2.1a">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaelTrindade&repo=Login_System_v2.1a&theme=tokyonight&hide_border=true" />
 </a>
+<a href="https://github.com/LaelTrindade/Gemini_Chat_v1.0">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaelTrindade&repo=Gemini_Chat_v1.0&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
+
+---
 
 ### 🧮 Calculator v2.1
 
@@ -106,15 +109,31 @@ Desktop authentication system featuring login and registration screens, local da
 
 ---
 
+### 🤖 Gemini Chat v1.0
+
+Desktop AI chat powered by a Google Gemini agent (SmolAgents) that keeps the conversation context, featuring message bubbles, an online/offline indicator and a model title that updates automatically. Study project, not affiliated with Google.
+
+**Technologies:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2C3E50?style=flat-square&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=flat-square&logo=python&logoColor=white)
+![SmolAgents](https://img.shields.io/badge/SmolAgents-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+🔗 [View Repository](https://github.com/LaelTrindade/Gemini_Chat_v1.0)
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" bgcolor="#0D1117">
+<td align="center">
 
-<table>
+<table border="0">
 <tr>
 <td width="50%" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LaelTrindade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" width="100%" />
