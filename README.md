@@ -79,6 +79,8 @@ Currently, I'm exploring the integration of **Artificial Intelligence agents** i
 
 </div>
 
+---
+
 ### 🧮 Calculator v2.1
 
 Desktop calculator capable of evaluating complete mathematical expressions in a single line, featuring calculation history and Brazilian number formatting.
