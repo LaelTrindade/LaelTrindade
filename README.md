@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:073F61,50:096B9B,100:00A6D6&height=180&section=header&text=Lael%20Trindade&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Python%20Developer%20%7C%20Software%20Development&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:073F61,100:096B9B&height=160&section=header&text=Lael%20Trindade&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Python%20Developer%20%7C%20Software%20Development&descAlignY=65&descSize=16" />
 
 </div>
 
@@ -99,7 +99,5 @@ Currently pursuing a degree.
 <div align="center">
 
 **Building. Learning. Improving.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:073F61,50:096B9B,100:00A6D6&height=90&section=footer" />
 
 </div>
