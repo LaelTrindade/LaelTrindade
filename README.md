@@ -1,180 +1,95 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:073F61,50:096B9B,100:00A6D6&height=200&section=header&text=Lael%20Trindade&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Software%20Development&descAlignY=58&descSize=18" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00A6D6&center=true&vCenter=true&width=600&lines=Python+Developer;Desktop+Application+Development;Software+Engineering+Student;Exploring+AI+Agents+Integration" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:073F61,50:096B9B,100:00A6D6&height=180&section=header&text=Lael%20Trindade&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Python%20Developer%20%7C%20Software%20Development&descAlignY=62&descSize=16" />
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
-```python
-class LaelTrindade:
-    def __init__(self):
-        self.name = "Lael Trindade"
-        self.role = "Python Developer"
-        self.education = "Information Systems"
-        self.location = "Manaus, Brazil"
+Hello! I'm **Lael Trindade**, a Python Developer and Information Systems student based in Manaus, Brazil.
 
-        self.interests = [
-            "Software Development",
-            "Desktop Applications",
-            "Database Design",
-            "Artificial Intelligence"
-        ]
+I focus on building desktop applications and software solutions, working across graphical interfaces, business logic and database integration.
 
-    def current_focus(self):
-        return "Building software solutions with Python"
+Currently exploring **Artificial Intelligence and AI Agent integration** in Python applications.
 
+## 📊 GitHub Overview
 
-me = LaelTrindade()
-```
+![Repositories](https://img.shields.io/badge/Repositories-Explore-096B9B?style=flat-square&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Primary_Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Software_Development-00A6D6?style=flat-square)
 
-I'm a **Python Developer** focused on desktop application development and software engineering.
+## 🛠️ Technology Stack
 
-I enjoy building complete software solutions, from database modeling and business logic to graphical interfaces, always considering usability and user experience (UX/UI).
-
-Currently, I'm exploring the integration of **Artificial Intelligence agents** into Python applications.
-
----
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=python,sqlite,docker" />
-
-### Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-
-</div>
-
-**Additional Technologies**
-
-[![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2C3E50?style=for-the-badge&logo=python&logoColor=white)](https://customtkinter.tomschimansky.com/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
-[![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python-pillow.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-
----
-
-## 📂 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/LaelTrindade/Calculator_v2.1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaelTrindade&repo=Calculator_v2.1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/LaelTrindade/Login_System_v2.1a">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaelTrindade&repo=Login_System_v2.1a&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/LaelTrindade/Gemini_Chat_v1.0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaelTrindade&repo=Gemini_Chat_v1.0&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-### 🧮 Calculator v2.1
-
-Desktop calculator capable of evaluating complete mathematical expressions in a single line, featuring calculation history and Brazilian number formatting.
-
-**Technologies:**
+**Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2C3E50?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
 
-🔗 [View Repository](https://github.com/LaelTrindade/Calculator_v2.1)
+**Tools & Technologies**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Additional Technologies**
+
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![SmolAgents](https://img.shields.io/badge/SmolAgents-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🧮 Calculator v2.1
+
+Desktop calculator with mathematical expression evaluation, calculation history and Brazilian number formatting.
+
+[View Repository](https://github.com/LaelTrindade/Calculator_v2.1)
+
+**Python · CustomTkinter**
 
 ---
 
 ### 🔐 Login System v2.1a
 
-Desktop authentication system featuring login and registration screens, local data persistence and customized message boxes.
+Desktop authentication system featuring login, registration, local data persistence and customized interfaces.
 
-**Technologies:**
+[View Repository](https://github.com/LaelTrindade/Login_System_v2.1a)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2C3E50?style=flat-square&logo=python&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=flat-square&logo=python&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-292929?style=flat-square&logo=json&logoColor=white)
-
-🔗 [View Repository](https://github.com/LaelTrindade/Login_System_v2.1a)
+**Python · CustomTkinter · Pillow · JSON**
 
 ---
 
 ### 🤖 Gemini Chat v1.0
 
-Desktop AI chat powered by a Google Gemini agent (SmolAgents) that keeps the conversation context, featuring message bubbles, an online/offline indicator and a model title that updates automatically. Study project, not affiliated with Google.
+Desktop AI chat application integrating Google Gemini through SmolAgents, with conversation context management and a customized graphical interface.
 
-**Technologies:**
+[View Repository](https://github.com/LaelTrindade/Gemini_Chat_v1.0)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2C3E50?style=flat-square&logo=python&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=flat-square&logo=python&logoColor=white)
-![SmolAgents](https://img.shields.io/badge/SmolAgents-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
-🔗 [View Repository](https://github.com/LaelTrindade/Gemini_Chat_v1.0)
-
----
-
----
-
-## 🎯 Currently Working On
-
-- 🐍 Developing desktop applications with Python and CustomTkinter.
-- 🗄️ Improving database architecture and SQL skills.
-- 🤖 Exploring AI agents integration with Python.
-- 📚 Studying Software Engineering and system architecture.
-- 🛠️ Building projects and expanding my developer portfolio.
-
----
+**Python · CustomTkinter · SmolAgents · Gemini API**
 
 ## 🎓 Education
 
-| Institution | Qualification |
-|---|---|
-| Centro Universitário Fametro | Information Systems *(In Progress)* |
-| Fundação Matias Machline | Technical Degree in Electronics |
+**Information Systems** — Centro Universitário Fametro  
+Currently pursuing a degree.
 
-Additional training in Python, SQL databases, systems modeling, prototyping and MVP development.
+**Technical Degree in Electronics** — Fundação Matias Machline
 
----
-
-## 💼 Professional Background
-
-Experience in IT support through internships, including:
-
-- Network infrastructure and maintenance.
-- Computer hardware maintenance.
-- Technical support and troubleshooting.
-- End-user assistance.
-
-Experience with agile methodologies, project organization and Scrum Master responsibilities in academic projects.
-
-Currently seeking opportunities in **Software Development**, especially with Python, where I can contribute to real-world projects, grow technically and build solutions that deliver value.
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
-<a href="mailto:laellrt72@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 <a href="https://github.com/LaelTrindade">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/laeltrindade-64887720b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:laellrt72@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -183,10 +98,8 @@ Currently seeking opportunities in **Software Development**, especially with Pyt
 
 <div align="center">
 
-### 💡 Code. Learn. Build. Repeat.
+**Building. Learning. Improving.**
 
-<img src="https://komarev.com/ghpvc/?username=LaelTrindade&color=096B9B&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:073F61,50:096B9B,100:00A6D6&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:073F61,50:096B9B,100:00A6D6&height=90&section=footer" />
 
 </div>
